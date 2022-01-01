@@ -3,8 +3,8 @@
 ESP8266 MQTT Roomba Controller (Useful to connect old Roombas to the Smart Home)
 
 ## Parts:
-* [ESP12E](http://www.ebay.com/itm/121951859776) ESP8266 Wifi microcontroller ($3-4) Though any ESP module will probably work
-* [Small 3.3V switching step-down regulator](https://www.amazon.com/gp/product/B01MQGMOKI) ($1-2)
+* [ESP8266 NodeMCU V3](https://www.amazon.de/gp/product/B074Q2WM1Y?ie=UTF8&tag=habermann0c-21&camp=1638&linkCode=xm2&creativeASIN=B074Q2WM1Y) ESP8266 Wifi microcontroller ($10-14) Though any ESP module will probably work
+* [Small 3.3V switching step-down regulator](https://www.amazon.de/gp/product/B07QMCW2LY?ie=UTF8&tag=habermann0c-21&camp=1638&linkCode=xm2&creativeASIN=B07QMCW2LY) ($1-2)
 * 5kOhm & 10kOhm resistor for 5V->3.3V voltage divider (any two resistors above a few kOhm with a 1:2 ratio should work)
 * Some ~10kOhm pullup/pulldown resistors to get the ESP12E in the right modes for programming (probably anything 2k-20kOhm will work fine)
 * 3.3V FTDI cable for initial programming
