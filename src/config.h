@@ -1,3 +1,6 @@
+//Version
+String roombotVersion = "0.1.3";
+String WMode = "1";
 
 //WIFI Settings
 
@@ -22,3 +25,5 @@ const char *APpassword = "momo2021";
 #define SERIAL_RX     D5  // pin for SoftwareSerial RX
 #define SERIAL_TX     D6  // pin for SoftwareSerial TX
 #define Wake_Pin      D1
+
+
